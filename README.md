@@ -1,5 +1,5 @@
 # Krypto
-![pic2](https://github.com/NevenaMilojevic01/Figma/assets/118065254/aa2c335d-7abc-4d68-bcbd-ccd38e60ca58)
+![pic1](https://github.com/NevenaMilojevic01/Figma/assets/118065254/030b350a-8d55-43a6-ab81-82a028876fea)
 
 # IOSDesign
 ![pic1](https://github.com/NevenaMilojevic01/Figma/assets/118065254/9c8d6c45-2d8f-49dd-bfb7-9c61d0dbcf18)
